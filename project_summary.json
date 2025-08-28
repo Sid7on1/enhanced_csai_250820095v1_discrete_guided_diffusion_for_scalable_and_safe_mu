@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.AI_2508.20095v1_Discrete_Guided_Diffusion_for_Scalable_and_Safe_Mu",
+  "project_type": "agent",
+  "completion_time": "2025-08-28T20:50:57.281139",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.AI_2508.20095v1_Discrete_Guided_Diffusion_for_Scalable_and_Safe_Mu"
+}
